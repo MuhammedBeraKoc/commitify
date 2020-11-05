@@ -10,4 +10,8 @@ function prettify() {
     return run('prettier --config .prettierrc bin/**/*.js --write').exec()
 }
 
-exports.default = series(lint, prettify)
+function printPackageInfo() {
+    return run('npm pack --dry-run').exec()
+}
+
+exports.default = series(lint, prettify, printPackageInfo)

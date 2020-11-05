@@ -12,7 +12,7 @@ commitify -p
 ```
 After choosing options result should be like that:
 
-<img src="commitify-image.png">
+<img src="https://i.ibb.co/HFj8cJ6/commitify-image.png" alt="example">
 
 ## `Documentation`
 For detailed documentation:

@@ -2,3 +2,7 @@
 - Initial version
 - Added four basic commit types: `new`, `feature`, `deploy` and `hotfix`
 - Implemented a neat CLI UI with npm libraries.
+
+### `v1.0.1`
+- Removed unnecessary packages.
+- Added .npmignore files

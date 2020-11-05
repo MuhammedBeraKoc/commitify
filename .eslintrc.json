@@ -9,5 +9,7 @@
         "ecmaVersion": 2017
     },
     "rules": {
+        "no-undef": "off",
+        "no-global-assign": "off"
     }
 }
