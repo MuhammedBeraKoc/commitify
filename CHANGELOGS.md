@@ -6,3 +6,6 @@
 ### `v1.0.1`
 - Removed unnecessary packages.
 - Added .npmignore files
+
+### `v1.0.2`
+- Added `test`, `style` and `migrate` options

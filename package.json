@@ -1,6 +1,6 @@
 {
     "name": "@berakocc/commitify",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An NPM CLI for sending commit messages with convenient emojis and format",
     "main": "src/cli.js",
     "bin": {
@@ -8,7 +8,6 @@
         "commitify": "./bin/commitify.js"
     },
     "scripts": {
-        "test": "jest --verbose",
         "check": "gulp"
     },
     "publishConfig": {

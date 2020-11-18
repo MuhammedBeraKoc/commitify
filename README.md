@@ -19,7 +19,7 @@ For detailed documentation:
 ```js
 commitify --help
 ```
-You can also read [Changelogs](https://github.com/solaristudio/react-on-show/blob/main/changelogs.md) for detailed version updated.
+You can also read [Changelogs](https://github.com/MuhammedBeraKoc/commitify/blob/main/CHANGELOGS.md) for detailed version updated.
 
 ## `Contributing`
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also you can help me to improve the library by adding new [issues](https://github.com/solaristudio/react-on-show/issues).
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also you can help me to improve the library by adding new [issues](https://github.com/MuhammedBeraKoc/commitify/issues).
